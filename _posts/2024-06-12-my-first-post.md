@@ -5,7 +5,7 @@ excerpt: "My first github blog."
 categories:
   - Blog
 tags:
-  - [Blog, jeky11, Github, Git]
+  - [Blog, jekyll, Github, Git]
 
 toc: true
 toc_sticky: true
